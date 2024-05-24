@@ -1,10 +1,10 @@
 # Medical Data Scraper & Meilisearch Uploader
 
 ## Features
-> Web Scraping: Extracts JSON medical data from a specified website
-> Data Processing: Cleans and transforms data for efficient indexing
-> Meilisearch Integration: Updates medical data on Meilisearch for fast and accurate search capabilities
-> FastAPI: Built with FastAPI for high-performance and scalability
+- Web Scraping: Extracts JSON medical data from a specified website
+- Data Processing: Cleans and transforms data for efficient indexing
+- Meilisearch Integration: Updates medical data on Meilisearch for fast and accurate search capabilities
+- FastAPI: Built with FastAPI for high-performance and scalability
 
 ## Usage
 Clone the repository and install dependencies with ```pip install -r requirements.txt```
