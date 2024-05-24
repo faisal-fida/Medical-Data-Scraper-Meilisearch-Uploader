@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "specialty": "Cardiologist",
+    "location": "New York",
+    "rating": 5,
+    "phone": "1234567890",
+    "hospitals": [
+      "Piedmont Newnan Hospital",
+      "WellStar Atlanta Medical Center"
+    ],
+    "languages": ["English", "Spanish"]
+  },
+  {
+    "id": 2,
+    "name": "Paul Smith",
+    "specialty": "Dermatologist",
+    "location": "San Francisco",
+    "rating": 4,
+    "phone": "1234567890",
+    "hospitals": [
+      "Piedmont Newnan Hospital",
+      "WellStar Atlanta Medical Center"
+    ],
+    "languages": ["English", "Spanish"]
+  },
+  {
+    "id": 3,
+    "name": "Jane Doe",
+    "specialty": "Pediatrician",
+    "location": "Los Angeles",
+    "rating": 5,
+    "phone": "1234567890",
+    "hospitals": [
+      "Piedmont Newnan Hospital",
+      "WellStar Atlanta Medical Center"
+    ],
+    "languages": ["English", "Spanish"]
+  }
+]
