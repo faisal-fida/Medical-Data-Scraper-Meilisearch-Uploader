@@ -7,10 +7,10 @@
 - FastAPI: Built with FastAPI for high-performance and scalability
 
 ## Usage
-Clone the repository and install dependencies with ```pip install -r requirements.txt```
-Configure the web scraper by setting the WEBSITE_URL environment variable
-Run the application with ```uvicorn main:app --host 0.0.0.0 --port 8000```
-Send a POST request to ```/doctor/{doctor_name}``` to trigger the data scraping and Meilisearch update process
+- Clone the repository and install dependencies with ```pip install -r requirements.txt```
+- Configure the web scraper by setting the WEBSITE_URL environment variable
+- Run the application with ```uvicorn main:app --host 0.0.0.0 --port 8000```
+- Send a POST request to ```/doctor/{doctor_name}``` to trigger the data scraping and Meilisearch update process
 
 ## Configuration
 - WEBSITE_URL: URL of the website to scrape JSON medical data from.
