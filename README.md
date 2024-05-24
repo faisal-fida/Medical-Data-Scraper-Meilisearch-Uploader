@@ -1,8 +1,5 @@
 # Medical Data Scraper & Meilisearch Uploader
 
-## Overview
-This project combines web scraping, data processing, and search engine integration to streamline medical data management. It uses FastAPI to scrape JSON medical data from a website and update it on Meilisearch, an open-source alternative to Elasticsearch.
-
 ## Features
 Web Scraping: Extracts JSON medical data from a specified website
 Data Processing: Cleans and transforms data for efficient indexing
